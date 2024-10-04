@@ -6,8 +6,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.nikoo90@gmail.com)
 [![GitHub Follow](https://img.shields.io/github/followers/AliNikoo73?label=Follow&style=social)](https://github.com/AliNikoo73)
 
-👨‍🎓 **Graduated from the University of Ottawa with a master's degree in Biomedical Engineering.**
-📊 **Interested in AI, Machine Learning, Data visualization, and Deep Learning.**
+- 👨‍🎓 **Graduated from the University of Ottawa with a master's degree in Biomedical Engineering.**
+- 📊 **Interested in AI, Machine Learning, Data visualization, and Deep Learning.**
 
 ## Skills
 
