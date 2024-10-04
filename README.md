@@ -42,5 +42,5 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNikoo73&layout=normal&theme=radical)](https://github.com/your-github-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNikoo73&layout=full&theme=merko)](https://github.com/AliNikoo73)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliNikoo73&theme=default)](https://git.io/streak-stats)
