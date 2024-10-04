@@ -43,4 +43,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNikoo73&layout=compact&theme=default)](https://github.com/your-github-username)
-[![GitHub Streak](https://streak-stats.demolab.com?AliNikoo73&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AliNikoo73&theme=default)](https://git.io/streak-stats)
