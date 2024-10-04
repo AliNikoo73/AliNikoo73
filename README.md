@@ -1,7 +1,10 @@
 # Ali Nikoo
 
-- 👨‍🎓 Graduated from university of Ottawa with a master's degree in Biomedical Engineering.
-- 📊 Interested in Data Analysis, Machine Learning, and Deep Learning.
+![Profile Views](https://komarev.com/ghpvc/?username=AliNikoo73&color=blue)
+
+
+- 👨‍🎓 Graduated from the University of Ottawa with a master's degree in Biomedical Engineering.
+- 📊 Interested in AI, Machine Learning, Data visualization, and Deep Learning.
 
 ## Skills
 
