@@ -44,6 +44,15 @@
         <img src="https://img.shields.io/badge/Web%20Scraping-Scrapy-darkgreen?style=for-the-badge&logo=scrapy"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       </td>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/ios-filled/100/47A248/doctor-male.png" alt="Medical Chatbot Icon" width="100" height="100"/><br>
+        <b><a href="https://github.com/AliNikoo73/Medical-Chatbot">Medical Chatbot for Symptom Analysis and Disease Guidance</a></b><br>
+        <i>This project involves developing an AI-driven <b>medical chatbot</b> designed to assist users with symptom analysis and provide preliminary health guidance. It features a PyQt5 GUI and integrates a pre-trained GPT-2 model for natural language processing.</i><br><br>
+        <img src="https://img.shields.io/badge/NLP-GPT--2-blueviolet?style=for-the-badge&logo=openai"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GUI-PyQt5-41CD52?style=for-the-badge&logo=qt"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </td>
     </tr>
   </table>
 
