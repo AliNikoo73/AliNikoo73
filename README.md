@@ -1,39 +1,68 @@
 # **Ali Nikoo**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects Layout</title>
+  <style>
+    /* Flexbox container */
+    .projects-container {
+      display: flex;
+      flex-wrap: wrap; /* Allows items to wrap if necessary */
+      justify-content: space-between; /* Spacing between items */
+      gap: 20px; /* Space between each project card */
+    }
 
-### Projects
+    /* Each project box */
+    .project-card {
+      flex: 1 1 30%; /* Adjust the width of each project, you can tweak 30% to fit your design */
+      padding: 20px;
+      border: 1px solid #ccc;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img src="https://img.icons8.com/ios-filled/100/4a90e2/lungs.png" alt="Lung Icon" width="100" height="100"/><br>
-        <b><a href="https://github.com/AliNikoo73/Lung-Disease-Classification">Lung Disease Classification</a></b><br>
-        <i>This project leverages the power of deep learning to classify <b>lung diseases</b> using X-ray images. Early and accurate detection can greatly improve patient outcomes.</i><br><br>
-        <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      </td>
-      <td align="center" width="300">
-        <img src="https://img.icons8.com/ios-filled/100/4a90e2/liver.png" alt="Liver Icon" width="100" height="100"/><br>
-        <b><a href="https://github.com/AliNikoo73/Liver-Disease-Stage-Classification">Liver Disease Stages Prediction</a></b><br>
-        <i>This project predicts <b>liver disease stages</b> using clinical data and machine learning models. It includes feature importance plots and correlation heatmaps for analysis.</i><br><br>
-        <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-blue?style=for-the-badge&logo=scikit-learn"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300">
-        <img src="https://img.icons8.com/ios-filled/100/4a90e2/spiderweb.png" alt="Spider Web Icon" width="100" height="100"/><br>
-        <b><a href="https://github.com/AliNikoo73/Divar-Crawler-SecondHand-Cars-Listings">Divar Data Extractor</a></b><br>
-        <i>Developed a <b>web crawler</b> to extract second-hand car listings from <b>Divar.ir</b>, providing analysis of pricing trends and car models.</i><br><br>
-        <img src="https://img.shields.io/badge/Web%20Scraping-Scrapy-darkgreen?style=for-the-badge&logo=scrapy"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
+    .project-card h2 {
+      margin-top: 0;
+    }
+
+    /* Responsive design: Stack the projects vertically on smaller screens */
+    @media (max-width: 768px) {
+      .project-card {
+        flex: 1 1 100%; /* On small screens, the projects will stack vertically */
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="projects-container">
+  <!-- Project 1 -->
+  <div class="project-card">
+    <h2>Project 1</h2>
+    <p>Summary of the first project...</p>
+    <!-- Add more project details -->
+  </div>
+
+  <!-- Project 2 -->
+  <div class="project-card">
+    <h2>Project 2</h2>
+    <p>Summary of the second project...</p>
+    <!-- Add more project details -->
+  </div>
+
+  <!-- Project 3 -->
+  <div class="project-card">
+    <h2>Project 3</h2>
+    <p>Summary of the third project...</p>
+    <!-- Add more project details -->
+  </div>
 
 </div>
 
+</body>
+</html>
 
 ### Projects
 
