@@ -1,7 +1,7 @@
 <div align="center">
+
 <img src="[https://img.icons8.com/ios-filled/100/4a90e2/lungs.png](https://icons8.com/icon/xXaeGQn5sAFy/person-male--v5)" alt="Ali" width="100" height="100"/> 
 # **Ali Nikoo** 
-
 
   <img src="https://komarev.com/ghpvc/?username=AliNikoo73&color=blue" alt="Profile Views"/>
   <a href="https://www.linkedin.com/in/alinik031">
