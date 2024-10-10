@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-### Projects
+  ### Projects
   <table>
     <tr>
       <td align="center" width="300">
