@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://img.icons8.com/ios-filled/100/4a90e2/lungs.png](https://icons8.com/icon/xXaeGQn5sAFy/person-male--v5)" alt="Ali" width="100" height="100"/> 
+<img src="[https://img.icons8.com/ios-filled/100/4a90e2/lungs.png](https://icons8.com/icon/xXaeGQn5sAFy/person-male--v5.png)" alt="Ali" width="20" height="20"/> 
 
 # **Ali Nikoo** 
 
