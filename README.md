@@ -56,16 +56,6 @@
   </a>
 </div>
 
-<div align="center">
-
-## 👨‍🎓 Education
-*Graduated from [University of Ottawa](https://www.uottawa.ca/faculty-engineering/graduate-studies/programs/biomedical-engineering) with a master's degree in Biomedical Engineering.*
-
-## 🌟 Intrests
-*Interested in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Data visualization](https://en.wikipedia.org/wiki/Data_visualization), and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning).*
-
-</div>
-
 ---
 
 <div align="center">
@@ -98,6 +88,16 @@
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<div align="center">
+
+## 👨‍🎓 Education
+*Graduated from [University of Ottawa](https://www.uottawa.ca/faculty-engineering/graduate-studies/programs/biomedical-engineering) with a master's degree in Biomedical Engineering.*
+
+## 🌟 Intrests
+*Interested in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Data visualization](https://en.wikipedia.org/wiki/Data_visualization), and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning).*
 
 </div>
 
