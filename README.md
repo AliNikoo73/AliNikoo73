@@ -14,8 +14,10 @@
 </div>
 
 ---
-## **Projects**
+
 <div align="center">
+
+## **Projects**
 
   <table>
     <tr>
