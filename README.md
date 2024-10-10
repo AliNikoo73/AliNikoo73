@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       </td>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/ios-filled/100/47A248/chatbot.png" alt="Medical Chatbot Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/ios-filled/100/47A248/chatgpt.png" alt="Medical Chatbot Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Medical-Chatbot">Medical Chatbot</a></b><br>
         <i>This project involves developing an AI-driven <b>medical chatbot</b> designed to assist users with symptom analysis and provide preliminary health guidance. It features a PyQt5 GUI and integrates a pre-trained GPT-2 model for natural language processing.</i><br><br>
         <img src="https://img.shields.io/badge/NLP-GPT--2-blueviolet?style=for-the-badge&logo=openai"/>
