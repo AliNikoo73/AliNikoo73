@@ -60,7 +60,7 @@
 ### Software / Tools
 
 ![SolidWorks](https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/150px-SolidWorks_Logo.svg.png)
-![Mimics](https://www.btech.com.tr/wp-content/uploads/2021/03/materialised.jpg)
+![Mimics](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Materialise_logo.png/360px-Materialise_logo.png)
 ![OpenSim](https://your-image-hosting-site.com/path-to-opensim-logo.png)
 ![CATIA](https://your-image-hosting-site.com/path-to-catia-logo.png)
 ![Abaqus](https://your-image-hosting-site.com/path-to-abaqus-logo.png)
