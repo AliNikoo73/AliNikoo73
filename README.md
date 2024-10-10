@@ -39,7 +39,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Libraries and Frameworks
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -47,30 +46,15 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Cloud Computing
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-
 ### Software / Tools
-
-![SolidWorks](https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/150px-SolidWorks_Logo.svg.png)
-![Mimics](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Materialise_logo.png/360px-Materialise_logo.png)
-![OpenSim](https://your-image-hosting-site.com/path-to-opensim-logo.png)
-![CATIA](https://your-image-hosting-site.com/path-to-catia-logo.png)
-![Abaqus](https://your-image-hosting-site.com/path-to-abaqus-logo.png)
-
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Mimics](https://img.shields.io/badge/-Mimics-0076D6?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=opensim&logoColor=white)
 ![CATIA](https://img.shields.io/badge/-CATIA-005BAC?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Abaqus](https://img.shields.io/badge/-Abaqus-002D72?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)-->
 
 ### Frontend
