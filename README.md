@@ -24,7 +24,7 @@
 <div align="center">
 
 # 👨‍🎓 **Graduated from the University of Ottawa with a master's degree in Biomedical Engineering.**
-# 📊 **Interested in AI, Machine Learning, Data visualization, and Deep Learning.**
+## 📊 **Interested in AI, Machine Learning, Data visualization, and Deep Learning.**
 
 </div>
 
