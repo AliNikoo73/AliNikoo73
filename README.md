@@ -58,8 +58,12 @@
 
 <div align="center">
 
-# 👨‍🎓 **Graduated from the University of Ottawa with a master's degree in Biomedical Engineering.**
-## 📊 **Interested in AI, Machine Learning, Data visualization, and Deep Learning.**
+## 👨‍🎓 Education
+*Graduated from [University of Ottawa](https://www.uottawa.ca/faculty-engineering/graduate-studies/programs/biomedical-engineering) with a master's degree in Biomedical Engineering.*
+
+## 🌟 Intrests
+**Interested in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [Data visualization](https://en.wikipedia.org/wiki/Data_visualization), and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning).*
+*
 
 </div>
 
@@ -67,13 +71,13 @@
 
 <div align="center">
 
-## Skills
+## 🧠 Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Libraries and Frameworks
+### 📚 Libraries and Frameworks
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -81,10 +85,10 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
-### Database
+### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Software / Tools
+### 🛠️ Software / Tools
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Mimics](https://img.shields.io/badge/-Mimics-0076D6?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=unity&logoColor=white)
@@ -92,7 +96,7 @@
 ![Abaqus](https://img.shields.io/badge/-Abaqus-002D72?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 <!-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)-->
 
-### Frontend
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
