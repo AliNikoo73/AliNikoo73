@@ -52,16 +52,9 @@
 ### Software / Tools
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Mimics](https://img.shields.io/badge/-Mimics-0076D6?style=for-the-badge&logo=materialdesign&logoColor=white)
-![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=biolink&logoColor=white)
+![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=unity&logoColor=white)
 ![CATIA](https://img.shields.io/badge/-CATIA-005BAC?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Abaqus](https://img.shields.io/badge/-Abaqus-002D72?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-
-![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=unity&logoColor=white) <!-- Using Unity as simulation -->
-![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=chart-line&logoColor=white) <!-- Chart line for simulation and analytics -->
-![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=atom&logoColor=white) <!-- Atom representing scientific projects -->
-![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=labcoat&logoColor=white) <!-- Labcoat representing research -->
-![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=microscope&logoColor=white) <!-- Microscope for scientific discovery -->
-![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=open-source&logoColor=white) <!-- Open-source as OpenSim is open-source -->
 <!-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)-->
 
 ### Frontend
