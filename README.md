@@ -63,7 +63,6 @@
 
 ## 🌟 Intrests
 *Interested in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),[Data visualization](https://en.wikipedia.org/wiki/Data_visualization), and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning).*
-*
 
 </div>
 
@@ -101,8 +100,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
-
----
 
 <!-- <div align="center">
 
