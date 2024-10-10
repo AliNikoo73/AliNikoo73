@@ -1,7 +1,12 @@
 # **Ali Nikoo**
 
-#Projects
-https://github.com/AliNikoo73/Lung-Disease-Classification
+### Projects
+
+| Project | Description | Link | Icon |
+| --- | --- | --- | --- |
+| **Project 1** | A brief description of the project goes here. | [Repository Link](https://github.com/AliNikoo73/project-1) | ![Project 1 Icon](https://via.placeholder.com/150x150?text=Project+1) |
+| **Project 2** | A brief description of the project goes here. | [Repository Link](https://github.com/AliNikoo73/project-2) | ![Project 2 Icon](https://via.placeholder.com/150x150?text=Project+2) |
+| **Project 3** | A brief description of the project goes here. | [Repository Link](https://github.com/AliNikoo73/project-3) | ![Project 3 Icon](https://via.placeholder.com/150x150?text=Project+3) |
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AliNikoo73&color=blue)
