@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## **Projects**
+## 🚀 Projects
 
   <table>
     <tr>
