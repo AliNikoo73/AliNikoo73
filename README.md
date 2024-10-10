@@ -58,11 +58,12 @@
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
 ### Software / Tools
+
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
-![Mimics](https://img.shields.io/badge/-Mimics-FFA500?style=for-the-badge&logoColor=white)
-![OpenSim](https://img.shields.io/badge/-OpenSim-1E90FF?style=for-the-badge&logoColor=white)
-![CATIA](https://img.shields.io/badge/-CATIA-005386?style=for-the-badge&logoColor=white)
-![Abaqus](https://img.shields.io/badge/-Abaqus-0033A0?style=for-the-badge&logoColor=white)
+![Mimics](https://img.shields.io/badge/-Mimics-0076D6?style=for-the-badge&logo=materialdesign&logoColor=white)
+![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=biolink&logoColor=white)
+![CATIA](https://img.shields.io/badge/-CATIA-005BAC?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Abaqus](https://img.shields.io/badge/-Abaqus-002D72?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)-->
 
