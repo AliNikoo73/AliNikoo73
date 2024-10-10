@@ -51,8 +51,8 @@
 
 ### Software / Tools
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![Mimics](https://img.shields.io/badge/-Mimics-0076D6?style=for-the-badge&logo=3d-model&logoColor=white)
-![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=opensim&logoColor=white)
+![Mimics](https://img.shields.io/badge/-Mimics-0076D6?style=for-the-badge&logo=materialdesign&logoColor=white)
+![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=science&logoColor=white)
 ![CATIA](https://img.shields.io/badge/-CATIA-005BAC?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Abaqus](https://img.shields.io/badge/-Abaqus-002D72?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 <!-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)-->
