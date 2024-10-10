@@ -10,7 +10,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AliNikoo73&color=blue" alt="Profile Views"/>
-  <br>
   <a href="https://www.linkedin.com/in/alinik031">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
