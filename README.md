@@ -1,58 +1,5 @@
 # **Ali Nikoo**
 
-## Projects 🚀
-
-### 🔬 Lung-Disease-Classification
-[![Lung Disease](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](https://github.com/AliNikoo73/Lung-Disease-Classification)
-[![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/AliNikoo73/Lung-Disease-Classification)
-
-A project that classifies lung diseases using machine learning models. This project includes X-ray image analysis and classification using deep learning models such as CNN.
-
-[![Lung Icon](https://img.icons8.com/ios-filled/100/4a90e2/lungs.png)](https://github.com/AliNikoo73/Lung-Disease-Classification)
-
-🔗 **[View Project on GitHub](https://github.com/AliNikoo73/Lung-Disease-Classification)**
-
----
-
-### 🧠 AI-Chatbot
-[![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)](https://github.com/AliNikoo73/AI-Chatbot)
-[![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/AliNikoo73/AI-Chatbot)
-[![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/AliNikoo73/AI-Chatbot)
-
-This project builds an AI-powered chatbot using natural language processing and machine learning techniques. It supports real-time user interaction with contextual understanding.
-
-[![Chatbot Icon](https://img.icons8.com/color/96/000000/chatbot.png)](https://github.com/AliNikoo73/AI-Chatbot)
-
-🔗 **[View Project on GitHub](https://github.com/AliNikoo73/AI-Chatbot)**
-
----
-
-### 🌐 Web Scraper
-[![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](https://github.com/AliNikoo73/Web-Scraper)
-[![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/AliNikoo73/Web-Scraper)
-
-A web scraping project that extracts useful data from multiple sources and automates data collection processes using JavaScript and Node.js.
-
-[![Web Scraper Icon](https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-data-web-seo-flatart-icons-flat-flatarticons.png)](https://github.com/AliNikoo73/Web-Scraper)
-
-🔗 **[View Project on GitHub](https://github.com/AliNikoo73/Web-Scraper)**
-
----
-
-### 🧬 DNA Sequence Analysis
-[![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](https://github.com/AliNikoo73/DNA-Sequence-Analysis)
-[![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/AliNikoo73/DNA-Sequence-Analysis)
-
-This project analyzes DNA sequences using bioinformatics techniques and machine learning models to identify mutations and patterns in the data.
-
-[![DNA Icon](https://img.icons8.com/color/96/000000/dna.png)](https://github.com/AliNikoo73/DNA-Sequence-Analysis)
-
-🔗 **[View Project on GitHub](https://github.com/AliNikoo73/DNA-Sequence-Analysis)**
-
-
-
-
-
 ### Projects
 
 | Name | Description | Link | Icon |
