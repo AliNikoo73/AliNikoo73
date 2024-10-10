@@ -59,7 +59,7 @@
 
 ### Software / Tools
 
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Mimics](https://img.shields.io/badge/-Mimics-0076D6?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![OpenSim](https://img.shields.io/badge/-OpenSim-00BFFF?style=for-the-badge&logo=opensim&logoColor=white)
 ![CATIA](https://img.shields.io/badge/-CATIA-005BAC?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
