@@ -59,7 +59,7 @@
 
 ### Software / Tools
 
-![SolidWorks]([https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp])
+![SolidWorks]([https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/2560px-SolidWorks_Logo.svg.png])
 ![Mimics](https://your-image-hosting-site.com/path-to-mimics-logo.png)
 ![OpenSim](https://your-image-hosting-site.com/path-to-opensim-logo.png)
 ![CATIA](https://your-image-hosting-site.com/path-to-catia-logo.png)
