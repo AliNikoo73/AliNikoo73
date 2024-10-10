@@ -8,6 +8,20 @@
 | **Project 2** | This project focuses on building a machine learning model to predict **liver disease stages** using clinical data. Various visualizations such as feature importance plots, correlation heatmaps, and box plots are generated to offer insights into the data and model behavior. | [Liver Disease Stage Classifier](https://github.com/AliNikoo73/project-2) | ![Liver Icon](https://img.icons8.com/ios-filled/100/4a90e2/liver.png) |
 | **Project 3** | A brief description of the project goes here. | [Repository Link](https://github.com/AliNikoo73/project-3) | ![Project 3 Icon](https://via.placeholder.com/150x150?text=Project+3) |
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliNikoo73&color=blue" alt="Profile Views"/>
+  <br>
+  <a href="https://www.linkedin.com/in/alinik031">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:a.nikoo90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/AliNikoo73">
+    <img src="https://img.shields.io/github/followers/AliNikoo73?label=Follow&style=social" alt="GitHub Follow"/>
+  </a>
+</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AliNikoo73&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinik031)
