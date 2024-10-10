@@ -63,8 +63,8 @@
 ![OpenSim](https://img.shields.io/badge/-OpenSim-1E90FF?style=for-the-badge&logoColor=white)
 ![CATIA](https://img.shields.io/badge/-CATIA-005386?style=for-the-badge&logoColor=white)
 ![Abaqus](https://img.shields.io/badge/-Abaqus-0033A0?style=for-the-badge&logoColor=white)
-<!-- ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)-->
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)-->
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
