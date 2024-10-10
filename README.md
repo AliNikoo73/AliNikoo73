@@ -13,8 +13,6 @@
   </a>
 </div>
 
----
-
 <div align="center">
 
 ## 🚀 Projects
