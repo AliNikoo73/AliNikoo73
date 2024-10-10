@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://img.icons8.com/?size=100&id=xXaeGQn5sAFy&format=png&color=000000" alt="Ali" width="80" height="80"/>
-
-# **Ali Nikoo**
+# **<img src="https://img.icons8.com/ios-filled/50/4a90e2/user-male-circle.png" alt="User Icon" width="40"/> Ali Nikoo**
 
   <img src="https://komarev.com/ghpvc/?username=AliNikoo73&color=blue" alt="Profile Views"/>
   <a href="https://www.linkedin.com/in/alinik031">
@@ -66,7 +64,7 @@
 | **Lung disease classification** | This project leverages the power of deep learning to classify **lung diseases** using X-ray images. Early and accurate detection of lung diseases can greatly improve patient outcomes, especially in resource-limited settings where such technology can augment healthcare delivery. | [Lung Disease Classifier](https://github.com/AliNikoo73/Lung-Disease-Classification) | ![Lung Icon](https://img.icons8.com/ios-filled/100/4a90e2/lungs.png) |
 | **Liver disease stages prediction** | This project focuses on building a machine learning model to predict **liver disease stages** using clinical data. Various visualizations such as feature importance plots, correlation heatmaps, and box plots are generated to offer insights into the data and model behavior. | [Liver Disease Stage predictor](https://github.com/AliNikoo73/Liver-Disease-Stage-Classification) | ![Liver Icon](https://img.icons8.com/ios-filled/100/4a90e2/liver.png) |
 | **Divar data extractor** | This project involves developing a **machine learning model** to analyze second-hand car listings gathered from **Divar.ir**, a popular Iranian online marketplace. | [Web crawler](https://github.com/AliNikoo73/Divar-Crawler-SecondHand-Cars-Listings) | ![Kijiji Icon](https://img.icons8.com/ios-filled/100/4a90e2/spiderweb.png) | -->
-
+<!-- <img src="https://img.icons8.com/?size=100&id=xXaeGQn5sAFy&format=png&color=000000" alt="Ali" width="80" height="80"/> -->
 
 <div align="center">
 
