@@ -1,5 +1,20 @@
 # **Ali Nikoo**
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliNikoo73&color=blue" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/alinik031">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:a.nikoo90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/AliNikoo73">
+    <img src="https://img.shields.io/github/followers/AliNikoo73?label=Follow&style=social" alt="GitHub Follow"/>
+  </a>
+</div>
+
+---
+
 ### Projects
 
 <div align="center">
@@ -34,7 +49,6 @@
 
 </div>
 
-
 <!-- ### Projects
 
 | Name | Description | Link | Icon |
@@ -43,20 +57,6 @@
 | **Liver disease stages prediction** | This project focuses on building a machine learning model to predict **liver disease stages** using clinical data. Various visualizations such as feature importance plots, correlation heatmaps, and box plots are generated to offer insights into the data and model behavior. | [Liver Disease Stage predictor](https://github.com/AliNikoo73/Liver-Disease-Stage-Classification) | ![Liver Icon](https://img.icons8.com/ios-filled/100/4a90e2/liver.png) |
 | **Divar data extractor** | This project involves developing a **machine learning model** to analyze second-hand car listings gathered from **Divar.ir**, a popular Iranian online marketplace. | [Web crawler](https://github.com/AliNikoo73/Divar-Crawler-SecondHand-Cars-Listings) | ![Kijiji Icon](https://img.icons8.com/ios-filled/100/4a90e2/spiderweb.png) | -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliNikoo73&color=blue" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/alinik031">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:a.nikoo90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/AliNikoo73">
-    <img src="https://img.shields.io/github/followers/AliNikoo73?label=Follow&style=social" alt="GitHub Follow"/>
-  </a>
-</div>
-
----
 
 <div align="center">
 
