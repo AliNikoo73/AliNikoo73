@@ -15,10 +15,8 @@
 
 ---
 
-### Projects
-
 <div align="center">
-  
+### Projects
   <table>
     <tr>
       <td align="center" width="300">
