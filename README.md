@@ -23,11 +23,11 @@
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=AliNikoo73&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=AliNikoo73&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinik031)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.nikoo90@gmail.com)
 [![GitHub Follow](https://img.shields.io/github/followers/AliNikoo73?label=Follow&style=social)](https://github.com/AliNikoo73)
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alinikoo2020) -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alinikoo2020) -->
 
 - 👨‍🎓 **Graduated from the University of Ottawa with a master's degree in Biomedical Engineering.**
 - 📊 **Interested in AI, Machine Learning, Data visualization, and Deep Learning.**
