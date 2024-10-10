@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://img.icons8.com/?size=100&id=xXaeGQn5sAFy&format=png&color=000000" alt="Ali" width="80" height="80"/>
+
 # **Ali Nikoo**
 
   <img src="https://komarev.com/ghpvc/?username=AliNikoo73&color=blue" alt="Profile Views"/>
