@@ -2,49 +2,6 @@
 
 ### Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Project 1: Lung Disease Classification -->
-  <div style="background-color: #1E1E1E; border-radius: 10px; width: 300px; padding: 20px; text-align: center; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://img.icons8.com/ios-filled/100/4a90e2/lungs.png" alt="Lung Icon" width="100" height="100" />
-    <h3 style="color: #00ADEF;">Lung Disease Classification</h3>
-    <p style="color: #C0C0C0;">This project leverages the power of deep learning to classify <b>lung diseases</b> using X-ray images. Early and accurate detection of lung diseases can greatly improve patient outcomes.</p>
-    <div>
-      <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow Badge"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    </div>
-    <a href="https://github.com/AliNikoo73/Lung-Disease-Classification" style="color: #00ADEF; text-decoration: none; font-weight: bold; margin-top: 10px; display: inline-block;">View Project</a>
-  </div>
-
-  <!-- Project 2: Liver Disease Stages Prediction -->
-  <div style="background-color: #1E1E1E; border-radius: 10px; width: 300px; padding: 20px; text-align: center; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://img.icons8.com/ios-filled/100/4a90e2/liver.png" alt="Liver Icon" width="100" height="100" />
-    <h3 style="color: #00ADEF;">Liver Disease Stages Prediction</h3>
-    <p style="color: #C0C0C0;">This project predicts <b>liver disease stages</b> using clinical data. It includes feature importance plots and correlation heatmaps for analysis.</p>
-    <div>
-      <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-blue?style=for-the-badge&logo=scikit-learn" alt="Scikit-Learn Badge"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    </div>
-    <a href="https://github.com/AliNikoo73/Liver-Disease-Stage-Classification" style="color: #00ADEF; text-decoration: none; font-weight: bold; margin-top: 10px; display: inline-block;">View Project</a>
-  </div>
-
-  <!-- Project 3: Divar Data Extractor -->
-  <div style="background-color: #1E1E1E; border-radius: 10px; width: 300px; padding: 20px; text-align: center; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://img.icons8.com/ios-filled/100/4a90e2/spiderweb.png" alt="Spider Web Icon" width="100" height="100" />
-    <h3 style="color: #00ADEF;">Divar Data Extractor</h3>
-    <p style="color: #C0C0C0;">Developed a <b>web crawler</b> to extract second-hand car listings from <b>Divar.ir</b>, providing analysis of pricing trends and car models.</p>
-    <div>
-      <img src="https://img.shields.io/badge/Web%20Scraping-Scrapy-darkgreen?style=for-the-badge&logo=scrapy" alt="Scrapy Badge"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    </div>
-    <a href="https://github.com/AliNikoo73/Divar-Crawler-SecondHand-Cars-Listings" style="color: #00ADEF; text-decoration: none; font-weight: bold; margin-top: 10px; display: inline-block;">View Project</a>
-  </div>
-
-</div>
-
-
-### Projects
-
 <div align="center">
   
   <table>
