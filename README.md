@@ -2,34 +2,37 @@
 
 ### Projects
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-
-  <div style="flex: 1; margin: 10px; text-align: center;">
-    <img src="https://img.icons8.com/ios-filled/100/4a90e2/lungs.png" alt="Lung Icon" width="100" height="100"/><br>
-    <b><a href="https://github.com/AliNikoo73/Lung-Disease-Classification">Lung Disease Classification</a></b><br>
-    <i>This project leverages the power of deep learning to classify <b>lung diseases</b> using X-ray images. Early and accurate detection can greatly improve patient outcomes.</i><br><br>
-    <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </div>
-
-  <div style="flex: 1; margin: 10px; text-align: center;">
-    <img src="https://img.icons8.com/ios-filled/100/4a90e2/liver.png" alt="Liver Icon" width="100" height="100"/><br>
-    <b><a href="https://github.com/AliNikoo73/Liver-Disease-Stage-Classification">Liver Disease Stages Prediction</a></b><br>
-    <i>This project predicts <b>liver disease stages</b> using clinical data and machine learning models. It includes feature importance plots and correlation heatmaps for analysis.</i><br><br>
-    <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-blue?style=for-the-badge&logo=scikit-learn"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </div>
-
-  <div style="flex: 1; margin: 10px; text-align: center;">
-    <img src="https://img.icons8.com/ios-filled/100/4a90e2/spiderweb.png" alt="Spider Web Icon" width="100" height="100"/><br>
-    <b><a href="https://github.com/AliNikoo73/Divar-Crawler-SecondHand-Cars-Listings">Divar Data Extractor</a></b><br>
-    <i>Developed a <b>web crawler</b> to extract second-hand car listings from <b>Divar.ir</b>, providing analysis of pricing trends and car models.</i><br><br>
-    <img src="https://img.shields.io/badge/Web%20Scraping-Scrapy-darkgreen?style=for-the-badge&logo=scrapy"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </div>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/ios-filled/100/4a90e2/lungs.png" alt="Lung Icon" width="100" height="100"/><br>
+        <b><a href="https://github.com/AliNikoo73/Lung-Disease-Classification">Lung Disease Classification</a></b><br>
+        <i>This project leverages the power of deep learning to classify <b>lung diseases</b> using X-ray images. Early and accurate detection can greatly improve patient outcomes.</i><br><br>
+        <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </td>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/ios-filled/100/4a90e2/liver.png" alt="Liver Icon" width="100" height="100"/><br>
+        <b><a href="https://github.com/AliNikoo73/Liver-Disease-Stage-Classification">Liver Disease Stages Prediction</a></b><br>
+        <i>This project predicts <b>liver disease stages</b> using clinical data and machine learning models. It includes feature importance plots and correlation heatmaps for analysis.</i><br><br>
+        <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-blue?style=for-the-badge&logo=scikit-learn"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/ios-filled/100/4a90e2/spiderweb.png" alt="Spider Web Icon" width="100" height="100"/><br>
+        <b><a href="https://github.com/AliNikoo73/Divar-Crawler-SecondHand-Cars-Listings">Divar Data Extractor</a></b><br>
+        <i>Developed a <b>web crawler</b> to extract second-hand car listings from <b>Divar.ir</b>, providing analysis of pricing trends and car models.</i><br><br>
+        <img src="https://img.shields.io/badge/Web%20Scraping-Scrapy-darkgreen?style=for-the-badge&logo=scrapy"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 
 </div>
-
 
 
 ### Projects
