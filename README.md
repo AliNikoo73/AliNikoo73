@@ -4,7 +4,7 @@
 
 | Project | Description | Link | Icon |
 | --- | --- | --- | --- |
-| **Project 1** | This project leverages the power of deep learning to classify lung diseases using X-ray images. The dataset consists of five classes. | [Repository Link](https://github.com/AliNikoo73/Lung-Disease-Classification) | ![Lung Icon](https://img.icons8.com/ios-filled/100/4a90e2/lungs.png) |
+| **Project 1** | This project leverages the power of deep learning to classify lung diseases using X-ray images. The dataset consists of five classes. | [Lung Disease Classifier](https://github.com/AliNikoo73/Lung-Disease-Classification) | ![Lung Icon](https://img.icons8.com/ios-filled/100/4a90e2/lungs.png) |
 | **Project 2** | A brief description of the project goes here. | [Repository Link](https://github.com/AliNikoo73/project-2) | ![Project 2 Icon](https://via.placeholder.com/150x150?text=Project+2) |
 | **Project 3** | A brief description of the project goes here. | [Repository Link](https://github.com/AliNikoo73/project-3) | ![Project 3 Icon](https://via.placeholder.com/150x150?text=Project+3) |
 
