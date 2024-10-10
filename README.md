@@ -62,7 +62,7 @@
 *Graduated from [University of Ottawa](https://www.uottawa.ca/faculty-engineering/graduate-studies/programs/biomedical-engineering) with a master's degree in Biomedical Engineering.*
 
 ## 🌟 Intrests
-*Interested in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Machine Learning (https://en.wikipedia.org/wiki/Machine_learning), [Data visualization](https://en.wikipedia.org/wiki/Data_visualization), and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning).*
+*Interested in [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),[Data visualization](https://en.wikipedia.org/wiki/Data_visualization), and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning).*
 *
 
 </div>
