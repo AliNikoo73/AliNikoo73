@@ -5,7 +5,7 @@
 | Project | Description | Link | Icon |
 | --- | --- | --- | --- |
 | **Project 1** | This project leverages the power of deep learning to classify lung diseases using X-ray images. Early and accurate detection of lung diseases can greatly improve patient outcomes, especially in resource-limited settings where such technology can augment healthcare delivery. | [Lung Disease Classifier](https://github.com/AliNikoo73/Lung-Disease-Classification) | ![Lung Icon](https://img.icons8.com/ios-filled/100/4a90e2/lungs.png) |
-| **Project 2** | A brief description of the project goes here. | [Repository Link](https://github.com/AliNikoo73/project-2) | ![Project 2 Icon](https://via.placeholder.com/150x150?text=Project+2) |
+| **Project 2** | This project focuses on building a machine learning model to predict **liver disease stages** using clinical data. Various visualizations such as feature importance plots, correlation heatmaps, and box plots are generated to offer insights into the data and model behavior. | [Liver Disease Stage Classifier](https://github.com/AliNikoo73/project-2) | ![Liver Icon](https://img.icons8.com/ios-filled/100/4a90e2/liver.png) |
 | **Project 3** | A brief description of the project goes here. | [Repository Link](https://github.com/AliNikoo73/project-3) | ![Project 3 Icon](https://via.placeholder.com/150x150?text=Project+3) |
 
 
