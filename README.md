@@ -168,7 +168,7 @@
       <p>This paper focuses on finite element analysis (FEA) to evaluate the biomechanical parameters critical to understanding scoliosis progression.</p>
     </td>
     <td width="50%" align="center">
-      <img src="[https://your-image-link-here](https://media.licdn.com/dms/image/v2/D562DAQG_fwqd8PZ7Fg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728621642059?e=1729227600&v=beta&t=XsDVJERVjZowJu6Ypww-9-RNGsMR5eHpSwG_a1r_hj8)" alt="3D Bioprinting Technologies Book" width="150">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQG_fwqd8PZ7Fg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728621642059?e=1729227600&v=beta&t=XsDVJERVjZowJu6Ypww-9-RNGsMR5eHpSwG_a1r_hj8" alt="3D Bioprinting Technologies Book" width="150">
       <p><strong>4 - <a href="https://ketabrooz.ir/shop/فناوری-چاپگرهای-زیستی-سه-بعدی/"> Bioprinting Technologies Book (Farsi)</a></strong></p>
       <p>A comprehensive guide on 3D bioprinting technologies, written in Farsi, covering the latest innovations and applications in tissue engineering.</p>
     </td>
