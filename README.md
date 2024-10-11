@@ -48,7 +48,7 @@
         <img src="https://img.icons8.com/?size=100&id=10161&format=png&color=E5680E" alt="Spider Web Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Divar-Crawler-SecondHand-Cars-Listings">Divar Data Extractor</a></b><br>
         <i>Developed a <b>web crawler</b> to extract second-hand car listings from <b>Divar.ir</b>, providing analysis of pricing trends and car models.</i><br><br>
-        <img src="https://img.shields.io/badge/Web%20Scraping-Scrapy-darkgreen?style=for-the-badge&logo=selenium"/>
+        <img src="https://img.shields.io/badge/Web%20Scraping-Selenium-brightgreen?style=for-the-badge&logo=selenium&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       </td>
       <td align="center" width="300">
