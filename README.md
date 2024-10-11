@@ -53,7 +53,7 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
       </td>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/?size=100&id=VpbvKfQl83cP&format=png&color=000000" alt="Prosthesis Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/?size=100&id=VpbvKfQl83cP&format=png&color=D7032F" alt="Prosthesis Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Assistive-Device-Design">Assistive Device Design</a></b><br>
         <i>This project explores how different <b>cost functions</b> affect predictive simulations in the design of <b>assistive devices</b>, focusing on human walking simulations with OpenSim Moco.</i><br><br>
         <img src="https://img.shields.io/badge/Optimization-Optimization%20Techniques-green?style=for-the-badge&logo=google"/>
