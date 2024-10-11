@@ -156,7 +156,7 @@
       <p>This paper discusses optimizing parameters for assistive devices to enhance performance and efficiency in biomechanics applications.</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://your-image-link-here" alt="CFD Analysis of Blood Flow" width="150">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQGWqf9EOpCA4A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728621655384?e=1729227600&v=beta&t=mbM9gxa5SHqphEXm22P9THpZO0e2MTEIGjuAt9_1rtU" alt="CFD Analysis of Blood Flow" width="150">
       <p><strong>2 - <a href="https://d1wqtxts1xzle7.cloudfront.net/93738357/pdf-libre.pdf?1667717060=&response-content-disposition=inline%3B+filename%3DCFD_Analysis_of_the_Blood_Flow_in_Left_C.pdf&Expires=1728622789&Signature=K8Av-bc4VgEVOkTXjZnzO1ApF3bX1a~X7M7V846p9wdkrEknu30FL5QsBXU-AJ9lMmwf-WSgqi1bwWQzAJXy1qDD8KxLylHl7reqfu2Ru4uEaNdAsBp4JWtL6eb9vbkOkqNdSfhntkKspbeBTkMJUeSyJYUF2ams~cobJRmBvwqkGrr8jBLSKoZvqbli~FkJ4h0zVZw3U3etAVWCQB8SwR5oJ6kV2aVOgm2aFJx1GVwh2CS4rT2SoNiLnMCprVvzp3C2VmAMKIbTU0L8oP814lqJbOfKjws0lwAUp~Zwz0zmfsvByZu497S~plDAJNzZlcgV7MgNQfLyUkOd9RwLmg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Paper on CFD Analysis of the Blood Flow</a></strong></p>
       <p>This study applies computational fluid dynamics to analyze blood flow in the left coronary artery and its implications for cardiovascular health.</p>
     </td>
