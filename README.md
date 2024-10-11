@@ -146,6 +146,35 @@
 <a href="https://ketabrooz.ir/shop/فناوری-چاپگرهای-زیستی-سه-بعدی/">Assistive Device Design</a>* -->
 
 
+## 📝 Publications
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://your-image-link-here" alt="Optimization of Assistive Device" width="150">
+      <p><strong>1 - <a href="https://www.mdpi.com/2073-8994/14/12/2534">Paper on Optimization of Assistive Device</a></strong></p>
+      <p>This paper discusses optimizing parameters for assistive devices to enhance performance and efficiency in biomechanics applications.</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://your-image-link-here" alt="CFD Analysis of Blood Flow" width="150">
+      <p><strong>2 - <a href="https://d1wqtxts1xzle7.cloudfront.net/93738357/pdf-libre.pdf?1667717060=&response-content-disposition=inline%3B+filename%3DCFD_Analysis_of_the_Blood_Flow_in_Left_C.pdf">Paper on CFD Analysis of the Blood Flow</a></strong></p>
+      <p>This study applies computational fluid dynamics to analyze blood flow in the left coronary artery and its implications for cardiovascular health.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://your-image-link-here" alt="FEA Analysis of Scoliosis" width="150">
+      <p><strong>3 - <a href="https://d1wqtxts1xzle7.cloudfront.net/70656843/5-libre.pdf?1636075359=&response-content-disposition=inline%3B+filename%3DEvaluation_of_Useful_Biomechanical_Param.pdf">Paper on FEA Analysis of Scoliosis</a></strong></p>
+      <p>This paper focuses on finite element analysis (FEA) to evaluate the biomechanical parameters critical to understanding scoliosis progression.</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://your-image-link-here" alt="3D Bioprinting Technologies Book" width="150">
+      <p><strong>4 - <a href="https://ketabrooz.ir/shop/فناوری-چاپگرهای-زیستی-سه-بعدی/">3D Bioprinting Technologies Book (Farsi)</a></strong></p>
+      <p>A comprehensive guide on 3D bioprinting technologies, written in Farsi, covering the latest innovations and applications in tissue engineering.</p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <!-- <div align="center">
