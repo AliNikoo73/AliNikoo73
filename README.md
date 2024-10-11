@@ -52,6 +52,13 @@
         <img src="https://img.shields.io/badge/GUI-PyQt5-41CD52?style=for-the-badge&logo=qt"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
       </td>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/ios-filled/100/4a90e2/robot.png" alt="Robot Icon" width="100" height="100"/><br>
+        <b><a href="https://github.com/AliNikoo73/Assistive-Device-Design">Cost Function Sensitivity in Predictive Simulations</a></b><br>
+        <i>This project explores how different <b>cost functions</b> affect predictive simulations in the design of <b>assistive devices</b>, focusing on human walking simulations with OpenSim Moco.</i><br><br>
+        <img src="https://img.shields.io/badge/Optimization-Optimization%20Techniques-green?style=for-the-badge&logo=google"/>
+        <img src="https://img.shields.io/badge/OpenSim-Moco-blue?style=for-the-badge&logo=opensim&logoColor=white"/>
+      </td>
     </tr>
   </table>
 
