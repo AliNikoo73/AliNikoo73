@@ -42,13 +42,6 @@
         <img src="https://img.shields.io/badge/CAD-Autodesk-0078D7?style=for-the-badge&logo=autodesk"/>
         <img src="https://img.shields.io/badge/Biomedical%20Engineering-DA291C?style=for-the-badge&logo=medical&logoColor=white"/>
     </td>
-    <td align="center" width="300">
-      <img src="https://img.icons8.com/ios-filled/100/4a90e2/liver.png" alt="Liver Icon" width="100" height="100"/><br>
-      <b><a href="https://github.com/AliNikoo73/Liver-Disease-Stage-Classification">Liver Disease Stages Prediction</a></b><br>
-      <i>This project predicts <b>liver disease stages</b> using clinical data and machine learning models. It includes feature importance plots and correlation heatmaps for analysis.</i><br><br>
-      <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-blue?style=for-the-badge&logo=scikit-learn"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    </td>
     </tr>
     <tr>
       <td align="center" width="300">
