@@ -151,24 +151,24 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQFOKBa-pZTwRw/profile-treasury-image-shrink_8192_8192/profile-treasury-image-shrink_8192_8192/0/1728621681305?e=1729227600&v=beta&t=ty8WwHxopnBZ7b41yuQlnVVc0TQH6M2bolN5i5zCKMY" alt="Optimization of Assistive Device" width="150">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQFOKBa-pZTwRw/profile-treasury-image-shrink_8192_8192/profile-treasury-image-shrink_8192_8192/0/1728621681305?e=1729227600&v=beta&t=ty8WwHxopnBZ7b41yuQlnVVc0TQH6M2bolN5i5zCKMY" alt="Optimization of Assistive Device" width="150", height="150">
       <p><strong>1 - <a href="https://www.mdpi.com/2073-8994/14/12/2534">Paper on Optimization of Assistive Device</a></strong></p>
       <p>This paper discusses optimizing parameters for assistive devices to enhance performance and efficiency in biomechanics applications.</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQGWqf9EOpCA4A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728621655384?e=1729227600&v=beta&t=mbM9gxa5SHqphEXm22P9THpZO0e2MTEIGjuAt9_1rtU" alt="CFD Analysis of Blood Flow" width="150">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQGWqf9EOpCA4A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728621655384?e=1729227600&v=beta&t=mbM9gxa5SHqphEXm22P9THpZO0e2MTEIGjuAt9_1rtU" alt="CFD Analysis of Blood Flow" width="150", height="150">
       <p><strong>2 - <a href="https://d1wqtxts1xzle7.cloudfront.net/93738357/pdf-libre.pdf?1667717060=&response-content-disposition=inline%3B+filename%3DCFD_Analysis_of_the_Blood_Flow_in_Left_C.pdf&Expires=1728622789&Signature=K8Av-bc4VgEVOkTXjZnzO1ApF3bX1a~X7M7V846p9wdkrEknu30FL5QsBXU-AJ9lMmwf-WSgqi1bwWQzAJXy1qDD8KxLylHl7reqfu2Ru4uEaNdAsBp4JWtL6eb9vbkOkqNdSfhntkKspbeBTkMJUeSyJYUF2ams~cobJRmBvwqkGrr8jBLSKoZvqbli~FkJ4h0zVZw3U3etAVWCQB8SwR5oJ6kV2aVOgm2aFJx1GVwh2CS4rT2SoNiLnMCprVvzp3C2VmAMKIbTU0L8oP814lqJbOfKjws0lwAUp~Zwz0zmfsvByZu497S~plDAJNzZlcgV7MgNQfLyUkOd9RwLmg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Paper on CFD Analysis of the Blood Flow</a></strong></p>
       <p>This study applies computational fluid dynamics to analyze blood flow in the left coronary artery and its implications for cardiovascular health.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQHN_xM_0hoMHA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728621673516?e=1729227600&v=beta&t=jnrTp73UelIcm9eZECb6c5ZeD7AbsGOjh5Z9P4qXuZ8" alt="FEA Analysis of Scoliosis" width="150">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQHN_xM_0hoMHA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728621673516?e=1729227600&v=beta&t=jnrTp73UelIcm9eZECb6c5ZeD7AbsGOjh5Z9P4qXuZ8" alt="FEA Analysis of Scoliosis" width="150", height="150">
       <p><strong>3 - <a href="http://stm.e4journal.com/id/eprint/23/](https://d1wqtxts1xzle7.cloudfront.net/70656843/5-libre.pdf?1636075359=&response-content-disposition=inline%3B+filename%3DEvaluation_of_Useful_Biomechanical_Param.pdf&Expires=1728623062&Signature=WB7Svm0DJy3KNQr4nf0BvER~283qoMIunawnCVqxBq2G9dYmUfNcR-a2rZ3ixYXZvmYrI0vAG9bGlw~nf5q~ZZrFUNdAIDSmpRY~j0Po2zqkf3xYzNwJ8nGTWaEhXKo9KFmOTqXN1G~KECQjAWb1HK5w4XoOR8Ijg6GuvZ1euDiPNNZF36IkVDgvRFljv~iToWyZJ889PPIE8ov-pU48~oHPFBvSQOnhmNEqgqZhabN9WlRy46lGlg3ZECKs0WEL5gyLWHgpU936Uk7i7K0eIxDCDJjiWIPFD3TwA7MpDPooPjITLWcLx325cI2PF6CpMiUKdGHPtz5LCOFgehjlwA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)">Paper on FEA Analysis of Scoliosis</a></strong></p>
       <p>This paper focuses on finite element analysis (FEA) to evaluate the biomechanical parameters critical to understanding scoliosis progression.</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQG_fwqd8PZ7Fg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728621642059?e=1729227600&v=beta&t=XsDVJERVjZowJu6Ypww-9-RNGsMR5eHpSwG_a1r_hj8" alt="3D Bioprinting Technologies Book" width="150">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQG_fwqd8PZ7Fg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728621642059?e=1729227600&v=beta&t=XsDVJERVjZowJu6Ypww-9-RNGsMR5eHpSwG_a1r_hj8" alt="3D Bioprinting Technologies Book" width="150", height="150">
       <p><strong>4 - <a href="https://ketabrooz.ir/shop/فناوری-چاپگرهای-زیستی-سه-بعدی/"> Bioprinting Technologies Book (Farsi)</a></strong></p>
       <p>A comprehensive guide on 3D bioprinting technologies, written in Farsi, covering the latest innovations and applications in tissue engineering.</p>
     </td>
