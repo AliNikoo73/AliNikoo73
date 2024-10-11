@@ -137,9 +137,11 @@
 
 *1 - [paper on optimization of assistive device](https://www.mdpi.com/2073-8994/14/12/2534)*
 *2 - [paper on CFD Analysis of the Blood Flow](https://d1wqtxts1xzle7.cloudfront.net/93738357/pdf-libre.pdf?1667717060=&response-content-disposition=inline%3B+filename%3DCFD_Analysis_of_the_Blood_Flow_in_Left_C.pdf&Expires=1728622789&Signature=K8Av-bc4VgEVOkTXjZnzO1ApF3bX1a~X7M7V846p9wdkrEknu30FL5QsBXU-AJ9lMmwf-WSgqi1bwWQzAJXy1qDD8KxLylHl7reqfu2Ru4uEaNdAsBp4JWtL6eb9vbkOkqNdSfhntkKspbeBTkMJUeSyJYUF2ams~cobJRmBvwqkGrr8jBLSKoZvqbli~FkJ4h0zVZw3U3etAVWCQB8SwR5oJ6kV2aVOgm2aFJx1GVwh2CS4rT2SoNiLnMCprVvzp3C2VmAMKIbTU0L8oP814lqJbOfKjws0lwAUp~Zwz0zmfsvByZu497S~plDAJNzZlcgV7MgNQfLyUkOd9RwLmg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)*
-*3 - [FEA Analysis of Scoliosis]([http://stm.e4journal.com/id/eprint/23/](https://d1wqtxts1xzle7.cloudfront.net/70656843/5-libre.pdf?1636075359=&response-content-disposition=inline%3B+filename%3DEvaluation_of_Useful_Biomechanical_Param.pdf&Expires=1728623062&Signature=WB7Svm0DJy3KNQr4nf0BvER~283qoMIunawnCVqxBq2G9dYmUfNcR-a2rZ3ixYXZvmYrI0vAG9bGlw~nf5q~ZZrFUNdAIDSmpRY~j0Po2zqkf3xYzNwJ8nGTWaEhXKo9KFmOTqXN1G~KECQjAWb1HK5w4XoOR8Ijg6GuvZ1euDiPNNZF36IkVDgvRFljv~iToWyZJ889PPIE8ov-pU48~oHPFBvSQOnhmNEqgqZhabN9WlRy46lGlg3ZECKs0WEL5gyLWHgpU936Uk7i7K0eIxDCDJjiWIPFD3TwA7MpDPooPjITLWcLx325cI2PF6CpMiUKdGHPtz5LCOFgehjlwA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA))*
-*4 - <img src="https://acecr.ac.ir/images/www/fa/news/original/2019/1568542992-1-.jpg" alt="3D Bioprinting Technologies Book" width="500" height="300"> 
-<a href="https://ketabrooz.ir/shop/فناوری-چاپگرهای-زیستی-سه-بعدی/">Assistive Device Design</a>*
+*3 - [paper on FEA Analysis of Scoliosis](http://stm.e4journal.com/id/eprint/23/](https://d1wqtxts1xzle7.cloudfront.net/70656843/5-libre.pdf?1636075359=&response-content-disposition=inline%3B+filename%3DEvaluation_of_Useful_Biomechanical_Param.pdf&Expires=1728623062&Signature=WB7Svm0DJy3KNQr4nf0BvER~283qoMIunawnCVqxBq2G9dYmUfNcR-a2rZ3ixYXZvmYrI0vAG9bGlw~nf5q~ZZrFUNdAIDSmpRY~j0Po2zqkf3xYzNwJ8nGTWaEhXKo9KFmOTqXN1G~KECQjAWb1HK5w4XoOR8Ijg6GuvZ1euDiPNNZF36IkVDgvRFljv~iToWyZJ889PPIE8ov-pU48~oHPFBvSQOnhmNEqgqZhabN9WlRy46lGlg3ZECKs0WEL5gyLWHgpU936Uk7i7K0eIxDCDJjiWIPFD3TwA7MpDPooPjITLWcLx325cI2PF6CpMiUKdGHPtz5LCOFgehjlwA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA))*
+
+*4 - [3D Bioprinting Technologies Book](https://ketabrooz.ir/shop/فناوری-چاپگرهای-زیستی-سه-بعدی/)
+<!--*4 - <img src="https://acecr.ac.ir/images/www/fa/news/original/2019/1568542992-1-.jpg" alt="3D Bioprinting Technologies Book" width="500" height="300"> 
+<a href="https://ketabrooz.ir/shop/فناوری-چاپگرهای-زیستی-سه-بعدی/">Assistive Device Design</a>* -->
 
 
 </div>
