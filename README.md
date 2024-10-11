@@ -151,7 +151,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://opensim-org.github.io/opensim-moco-site/OverviewOfMoco.png" alt="Optimization of Assistive Device" width="300", height="200">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQFLrc14yi8vuw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728622804021?e=1729231200&v=beta&t=UU--LLHjrEojyNtEmoJkkKnBXL8k_oqOOM1kbkX5Jjc" alt="Optimization of Assistive Device" width="300", height="200">
       <p><strong>1 - <a href="https://www.mdpi.com/2073-8994/14/12/2534">Paper on Optimization of Assistive Device</a></strong></p>
       <p>This paper discusses optimizing parameters for assistive devices to enhance performance and efficiency in biomechanics applications.</p>
     </td>
