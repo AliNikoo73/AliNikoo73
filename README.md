@@ -151,7 +151,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQFOKBa-pZTwRw/profile-treasury-image-shrink_8192_8192/profile-treasury-image-shrink_8192_8192/0/1728621681305?e=1729227600&v=beta&t=ty8WwHxopnBZ7b41yuQlnVVc0TQH6M2bolN5i5zCKMY" alt="Optimization of Assistive Device" width="150" height="80">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQFOKBa-pZTwRw/profile-treasury-image-shrink_8192_8192/profile-treasury-image-shrink_8192_8192/0/1728621681305?e=1729227600&v=beta&t=ty8WwHxopnBZ7b41yuQlnVVc0TQH6M2bolN5i5zCKMY" alt="Optimization of Assistive Device" width="150">
       <p><strong>1 - <a href="https://www.mdpi.com/2073-8994/14/12/2534">Paper on Optimization of Assistive Device</a></strong></p>
       <p>This paper discusses optimizing parameters for assistive devices to enhance performance and efficiency in biomechanics applications.</p>
     </td>
