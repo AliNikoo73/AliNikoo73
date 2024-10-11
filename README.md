@@ -21,14 +21,14 @@
   <table>
     <tr>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/?size=100&id=9568&format=png&color=E5680E" alt="Lung Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/?size=100&id=9568&format=png&color=035CD7" alt="Lung Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Lung-Disease-Classification">Lung Disease Classification</a></b><br>
         <i>This project leverages the power of deep learning to classify <b>lung diseases</b> using X-ray images. Early and accurate detection can greatly improve patient outcomes.</i><br><br>
         <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       </td>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/?size=100&id=20604&format=png&color=E5680E" alt="Liver Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/?size=100&id=20604&format=png&color=035CD7" alt="Liver Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Liver-Disease-Stage-Classification">Liver Disease Stages Prediction</a></b><br>
         <i>This project predicts <b>liver disease stages</b> using clinical data and machine learning models. It includes feature importance plots and correlation heatmaps for analysis.</i><br><br>
         <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-blue?style=for-the-badge&logo=scikit-learn"/>
@@ -36,7 +36,7 @@
       </td>
       <tr>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/?size=100&id=pEh37L99VXjp&format=png&color=E5680E" alt="Mandible Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/?size=100&id=pEh37L99VXjp&format=png&color=035CD7" alt="Mandible Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Mandibular-Reconstruction-Plate">Mandibular Reconstruction Plates</a></b><br>
         <i>This project explores the use of <b>stiffness-matched, porous NiTi fixation plates</b> in mandibular reconstruction surgery to reduce stress shielding and implant failure.</i><br><br>
         <img src="https://img.shields.io/badge/Finite%20Element%20Analysis-Abaqus-003366?style=for-the-badge&logo=abaqus&logoColor=white"/>
@@ -44,7 +44,7 @@
         <img src="https://img.shields.io/badge/Mimics-008080?style=for-the-badge&logo=medical"/>
       </td>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/?size=100&id=10161&format=png&color=E5680E" alt="Spider Web Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/?size=100&id=10161&format=png&color=035CD7" alt="Spider Web Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Divar-Crawler-SecondHand-Cars-Listings">Divar Data Extractor</a></b><br>
         <i>Developed a <b>web crawler</b> to extract second-hand car listings from <b>Divar.ir</b>, providing analysis of pricing trends and car models.</i><br><br>
         <img src="https://img.shields.io/badge/Web%20Scraping-Selenium-brightgreen?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -53,7 +53,7 @@
       </tr>
     <tr>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/?size=100&id=4aUvAATdDLe5&format=png&color=E5680E" alt="Medical Chatbot Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/?size=100&id=4aUvAATdDLe5&format=png&color=035CD7" alt="Medical Chatbot Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Medical-Chatbot">Medical Chatbot</a></b><br>
         <i>This project involves developing an AI-driven <b>medical chatbot</b> designed to assist users with symptom analysis and provide preliminary health guidance.</i><br><br>
         <img src="https://img.shields.io/badge/NLP-GPT--2-blueviolet?style=for-the-badge&logo=openai"/>
@@ -62,7 +62,7 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
       </td>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/?size=100&id=VpbvKfQl83cP&format=png&color=E5680E" alt="Prosthesis Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/?size=100&id=VpbvKfQl83cP&format=png&color=035CD7" alt="Prosthesis Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Assistive-Device-Design">Assistive Device Design</a></b><br>
         <i>This project explores how different <b>cost functions</b> affect predictive simulations in the design of <b>assistive devices</b>, focusing on human walking simulations with OpenSim Moco.</i><br><br>
         <img src="https://img.shields.io/badge/Optimization-Optimization%20Techniques-green?style=for-the-badge&logo=google"/>
