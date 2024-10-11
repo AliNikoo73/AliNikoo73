@@ -38,8 +38,9 @@
         <img src="https://img.icons8.com/?size=100&id=pEh37L99VXjp&format=png&color=E5680E" alt="Mandible Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Mandibular-Reconstruction">Mandibular Reconstruction Plates/a></b><br>
         <i>This project explores the use of <b>stiffness-matched, porous NiTi fixation plates</b> in mandibular reconstruction surgery to reduce stress shielding and implant failure.</i><br><br>
-        <img src="https://img.shields.io/badge/Finite%20Element%20Analysis-Ansys-008080?style=for-the-badge&logo=ansys"/>
-        <img src="https://img.shields.io/badge/CAD-Autodesk-0078D7?style=for-the-badge&logo=autodesk"/>
+        <img src="https://img.shields.io/badge/Finite%20Element%20Analysis-Abaqus-003366?style=for-the-badge&logo=abaqus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CAD-SolidWorks-D22128?style=for-the-badge&logo=solidworks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mimics-008080?style=for-the-badge&logo=medical"/>
         <img src="https://img.shields.io/badge/Biomedical%20Engineering-DA291C?style=for-the-badge&logo=medical&logoColor=white"/>
     </td>
     </tr>
