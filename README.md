@@ -163,7 +163,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://your-image-link-here" alt="FEA Analysis of Scoliosis" width="150">
+      <img src="https://media.licdn.com/dms/image/v2/D562DAQHN_xM_0hoMHA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728621673516?e=1729227600&v=beta&t=jnrTp73UelIcm9eZECb6c5ZeD7AbsGOjh5Z9P4qXuZ8" alt="FEA Analysis of Scoliosis" width="150">
       <p><strong>3 - <a href="http://stm.e4journal.com/id/eprint/23/](https://d1wqtxts1xzle7.cloudfront.net/70656843/5-libre.pdf?1636075359=&response-content-disposition=inline%3B+filename%3DEvaluation_of_Useful_Biomechanical_Param.pdf&Expires=1728623062&Signature=WB7Svm0DJy3KNQr4nf0BvER~283qoMIunawnCVqxBq2G9dYmUfNcR-a2rZ3ixYXZvmYrI0vAG9bGlw~nf5q~ZZrFUNdAIDSmpRY~j0Po2zqkf3xYzNwJ8nGTWaEhXKo9KFmOTqXN1G~KECQjAWb1HK5w4XoOR8Ijg6GuvZ1euDiPNNZF36IkVDgvRFljv~iToWyZJ889PPIE8ov-pU48~oHPFBvSQOnhmNEqgqZhabN9WlRy46lGlg3ZECKs0WEL5gyLWHgpU936Uk7i7K0eIxDCDJjiWIPFD3TwA7MpDPooPjITLWcLx325cI2PF6CpMiUKdGHPtz5LCOFgehjlwA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)">Paper on FEA Analysis of Scoliosis</a></strong></p>
       <p>This paper focuses on finite element analysis (FEA) to evaluate the biomechanical parameters critical to understanding scoliosis progression.</p>
     </td>
