@@ -177,7 +177,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ### Status - Language - Contribution
 
@@ -187,7 +187,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliNikoo73&theme=default)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AliNikoo73&color=blue)
