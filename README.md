@@ -151,24 +151,24 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQFLrc14yi8vuw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728622804021?e=1730152800&v=beta&t=egfno_U9FxsKaoyEVeTO5OaRt-0gte5Kuw8wHd2VNMQ" alt="Optimization of Assistive Device" width="300", height="200">
+      <img src="https://github.com/AliNikoo73/AliNikoo73.github.io/blob/main/OverviewOfMoco.png" alt="Optimization of Assistive Device" width="300", height="200">
       <p><strong>1 - <a href="https://www.mdpi.com/2073-8994/14/12/2534">Paper on Optimization of Assistive Device</a></strong></p>
       <p>This paper discusses optimizing parameters for assistive devices to enhance performance and efficiency in biomechanics applications.</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQGWqf9EOpCA4A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728621655384?e=1730152800&v=beta&t=89lH_RPloVHFCXEOW5o83InrtsuIuVRMhKyrAX0UxZc" alt="CFD Analysis of Blood Flow" width="300", height="200">
+      <img src="https://github.com/AliNikoo73/AliNikoo73.github.io/blob/main/download%20(1).png" alt="CFD Analysis of Blood Flow" width="300", height="200">
       <p><strong>2 - <a href="https://www.academia.edu/download/93738357/pdf.pdf">Paper on CFD Analysis of the Blood Flow</a></strong></p>
       <p>This study applies computational fluid dynamics to analyze blood flow in the left coronary artery and its implications for cardiovascular health.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQHN_xM_0hoMHA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728621673516?e=1730152800&v=beta&t=0BiZPqxBR0oH3D8HbgfItrDWF-tNAfCGoFTFIHiTr-I" alt="FEA Analysis of Scoliosis" width="300", height="200">
+      <img src="https://github.com/AliNikoo73/AliNikoo73.github.io/blob/main/download.png" alt="FEA Analysis of Scoliosis" width="300", height="200">
       <p><strong>3 - <a href="https://journals.sbmu.ac.ir/Neuroscience/article/view/26969">Paper on FEA Analysis of Scoliosis</a></strong></p>
       <p>This paper focuses on finite element analysis (FEA) to evaluate the biomechanical parameters critical to understanding scoliosis progression.</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D562DAQG_fwqd8PZ7Fg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728621642059?e=1730152800&v=beta&t=HRI-Q7Ra7867U6ahvLqXjRmMTmlkn_QQQ35Zgp4l-eU" alt="3D Bioprinting Technologies Book" width="300", height="200">
+      <img src="https://github.com/AliNikoo73/AliNikoo73.github.io/blob/main/1728621642059.jpg" alt="3D Bioprinting Technologies Book" width="300", height="200">
       <p><strong>4 - <a href="https://ketabrooz.ir/shop/فناوری-چاپگرهای-زیستی-سه-بعدی/"> 3D Bioprinting Technologies Book (Farsi) </a></strong></p>
       <p>A comprehensive guide on 3D bioprinting technologies, written in Farsi, covering the latest innovations and applications in tissue engineering.</p>
     </td>
