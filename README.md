@@ -151,7 +151,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/AliNikoo73/AliNikoo73.github.io/blob/main/OverviewOfMoco.png" alt="Optimization of Assistive Device" width="300", height="200">
+      <img src="https://github.com/AliNikoo73/AliNikoo73.github.io/blob/main/OverviewOfMoco1.png" alt="Optimization of Assistive Device" width="300", height="200">
       <p><strong>1 - <a href="https://www.mdpi.com/2073-8994/14/12/2534">Paper on Optimization of Assistive Device</a></strong></p>
       <p>This paper discusses optimizing parameters for assistive devices to enhance performance and efficiency in biomechanics applications.</p>
     </td>
