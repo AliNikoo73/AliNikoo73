@@ -157,7 +157,7 @@
     </td>
     <td width="50%" align="center">
       <img src="https://media.licdn.com/dms/image/v2/D562DAQGWqf9EOpCA4A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728621655384?e=1730152800&v=beta&t=89lH_RPloVHFCXEOW5o83InrtsuIuVRMhKyrAX0UxZc" alt="CFD Analysis of Blood Flow" width="300", height="200">
-      <p><strong>2 - <a href="https://d1wqtxts1xzle7.cloudfront.net/93738357/pdf-libre.pdf?1667717060=&response-content-disposition=inline%3B+filename%3DCFD_Analysis_of_the_Blood_Flow_in_Left_C.pdf&Expires=1729552565&Signature=JQ3r6-~PQcTXj9hygR4WBV97YPTco7x~xAuD0ElemHo1mcoRaucgxkXDzqQakX~8TzQppx-17sHcmL9m1Pz9FcPDwZzunsuvGN4FrHn2Kc2ITcFHZrhL5Us01lVKqqaTzybZQ~4ZVrc5y6QPwuWO8TlWju~iY~1hKfOf8NTS06OotTZ~PDYibnsY7IHfHx1BO5RGhjmbwYUweca8AnVkv~rKgVlJp51HUa-RgXgHNX5kjoOMwDKBZtnHNpnuBFKbzGorQQImnyVFc5Nkh9~5xETS9gUTRSqMGdmD8PLRhEZqIdPb845PB7INDPuSIStdmeOvMqnmr1B9uQxnq~G8xg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Paper on CFD Analysis of the Blood Flow</a></strong></p>
+      <p><strong>2 - <a href="https://www.academia.edu/download/93738357/pdf.pdf">Paper on CFD Analysis of the Blood Flow</a></strong></p>
       <p>This study applies computational fluid dynamics to analyze blood flow in the left coronary artery and its implications for cardiovascular health.</p>
     </td>
   </tr>
