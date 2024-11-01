@@ -22,7 +22,7 @@
     <tr>
       <td align="center" width="300">
         <img src="https://img.icons8.com/?size=100&id=9568&format=png&color=035CD7" alt="Lung Icon" width="100" height="100"/><br>
-        <b><a href="https://github.com/AliNikoo73/Lung-Disease-Classification">Lung Disease Classification</a></b><br>
+        <b><a href="https://github.com/AliNikoo73/Automated-Medical-Image-Classification">Lung Disease Classification</a></b><br>
         <i>This project leverages the power of deep learning to classify <b>lung diseases</b> using X-ray images. Early and accurate detection can greatly improve patient outcomes.</i><br><br>
         <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
