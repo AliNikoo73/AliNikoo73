@@ -1,5 +1,4 @@
 <div align="center">
-
 # **<img src="https://img.icons8.com/?size=100&id=xXaeGQn5sAFy&format=png&color=000000" alt="Ali" width="40" height="40"/> Ali Nikoo**
 
   <img src="https://komarev.com/ghpvc/?username=AliNikoo73&color=blue" alt="Profile Views"/>
@@ -79,7 +78,7 @@
         <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-blue?style=for-the-badge&logo=scikit-learn"/>
       </td>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/?size=100&id=4aUvAATdDLe5&format=png&color=035CD7" alt="Robot Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/?size=100&id=PSuQNm4WSgUk&format=png&color=035CD7" alt="Robot Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/OpenManus">OpenManus</a></b><br>
         <i>An open-source framework for building <b>general AI agents</b> with Python and TypeScript integration.</i><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
