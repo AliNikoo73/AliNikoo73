@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td align="center" width="300">
-        <img src="https://img.icons8.com/?size=100&id=4aUvAATdDLe5&format=png&color=035CD7" alt="Exoskeleton Icon" width="100" height="100"/><br>
+        <img src="https://img.icons8.com/?size=100&id=P3LDwpdgZ7Dl&format=png&color=035CD7" alt="Exoskeleton Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/AdaptiveExo">AdaptiveExo</a></b><br>
         <i>A framework for developing <b>personalized exoskeleton control parameters</b> using machine learning models trained on biomechanical simulation data.</i><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
