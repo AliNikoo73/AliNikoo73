@@ -91,7 +91,7 @@
       <td align="center" width="300">
         <img src="https://img.icons8.com/?size=100&id=9568&format=png&color=035CD7" alt="Medical Scan Icon" width="100" height="100"/><br>
         <b><a href="https://github.com/AliNikoo73/Automated-Medical-Image-Classification">Automated Medical Image Classification</a></b><br>
-        <i>Automated classification of <b>medical images</b> using deep learning techniques for improved diagnostic accuracy.</i><br><br>
+        <i>Automated classification system for <b>medical images</b> using deep learning and computer vision techniques.</i><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
