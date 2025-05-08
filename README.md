@@ -69,6 +69,34 @@
         <img src="https://img.shields.io/badge/OpenSim-Moco-blue?style=for-the-badge&logo=opensim&logoColor=white"/>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/?size=100&id=102659&format=png&color=035CD7" alt="Exoskeleton Icon" width="100" height="100"/><br>
+        <b><a href="https://github.com/AliNikoo73/AdaptiveExo">AdaptiveExo</a></b><br>
+        <i>A framework for developing <b>personalized exoskeleton control</b> using machine learning models trained on biomechanical simulation data with OpenSim integration.</i><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-blue?style=for-the-badge&logo=scikit-learn"/>
+        <img src="https://img.shields.io/badge/OpenSim-Moco-blue?style=for-the-badge&logo=opensim&logoColor=white"/>
+      </td>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/?size=100&id=102659&format=png&color=035CD7" alt="AI Agent Icon" width="100" height="100"/><br>
+        <b><a href="https://github.com/AliNikoo73/OpenManus">OpenManus</a></b><br>
+        <i>An open-source framework for building <b>general AI agents</b>, providing tools and infrastructure for developing intelligent autonomous systems.</i><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=openai"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://img.icons8.com/?size=100&id=9568&format=png&color=035CD7" alt="Medical Imaging Icon" width="100" height="100"/><br>
+        <b><a href="https://github.com/AliNikoo73/Automated-Medical-Image-Classification">Automated Medical Image Classification</a></b><br>
+        <i>An automated system for <b>medical image classification</b> using deep learning techniques to assist in medical diagnosis and analysis.</i><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Medical%20Imaging-Radiology-blue?style=for-the-badge&logo=medical"/>
+      </td>
+    </tr>
   </table>
 
 </div>
