@@ -1,6 +1,11 @@
 <div align="center">
-# **<img src="https://img.icons8.com/?size=100&id=xXaeGQn5sAFy&format=png&color=000000" alt="Ali" width="40" height="40"/> Ali Nikoo**
+  <img src="https://img.icons8.com/?size=100&id=xXaeGQn5sAFy&format=png&color=000000" alt="Ali" width="60" height="60"/>
 
+  
+  
+  # **Ali Nikoo**
+  
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=AliNikoo73&color=blue" alt="Profile Views"/>
   <a href="https://www.linkedin.com/in/alinik031">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
